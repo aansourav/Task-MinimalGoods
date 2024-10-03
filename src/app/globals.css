@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --light : #E8E2DA;
+  --dark : #2E2A27;
+}
+
+.wrap {
+  background-color: var(--dark);
+}
